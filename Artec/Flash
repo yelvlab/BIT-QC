@@ -1,0 +1,70 @@
+#!/bin/bash
+
+TTY=`basename "$DEVNAME"`
+
+#You need to change this directory
+DIR=/home/hulk/BIT-QC/Artec
+
+LOGFILE=$DIR/log/Artec_AutoRun_$DEVNAME.log
+QCFILE=$DIR/log/Artec_AutoRun_$DEVNAME.qc
+
+
+#exit 0
+
+PRINT_DATE()
+{
+    echo ""
+    echo "=============================="
+    date "+%G-%m-%d %H:%M:%S %z"
+}
+
+ERASE()
+{
+    echo $SEQNUM $SUBSYSTEM $ACTION $DEVNAME $TTY
+    $DIR/esptool.py --chip esp32 --port $DEVNAME --baud 460800 erase_flash
+    PRINT_DATE
+}
+
+PROGRAMMING()
+{
+    echo $SEQNUM $SUBSYSTEM $ACTION $DEVNAME $TTY
+    $DIR/esptool.py --chip esp32 --port $DEVNAME --baud 460800 write_flash -z --compress --flash_mode dio --flash_freq 40m 0x1000 $DIR/firmware.bin
+    PRINT_DATE
+}
+
+QC_LOG()
+{
+    stty -F $DEVNAME raw speed 115200
+    PRINT_DATE >> $QCFILE
+    cat $DEVNAME >> $QCFILE
+    PRINT_DATE >> $QCFILE
+    #No end operation is added (temporary not), then more production process is added, which needs to be optimized here.
+}
+
+CLEAN_UP()
+{
+    killall -HUP "esptool_$TTY"".py"
+}
+
+if [ ! "$SUBSYSTEM" = "tty" ]
+then
+    exit 0
+fi
+
+if [ ! \( "$ACTION" = "add" -o "$ACTION" = "remove" \) ]
+then
+    exit 0
+fi
+
+case $DEVNAME in
+    "/dev/ttyACM"[0-9])
+        exec 3>> $LOGFILE && exec >& 3 && exec 2>&1
+        PRINT_DATE
+        if [ "$ACTION" = "add" ]
+        then
+            ERASE
+            PROGRAMMING
+            # QC_LOG
+        fi ;;
+esac
+exit $?

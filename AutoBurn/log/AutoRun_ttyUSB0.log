@@ -1,0 +1,1854 @@
+
+==============================
+2018-11-15 10:21:15 +0800
+3892 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: b4:e6:2d:97:3e:7d
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Erasing flash (this may take a while)...
+Chip erase completed successfully in 3.4s
+Hard resetting via RTS pin...
+
+==============================
+2018-11-15 10:21:19 +0800
+3892 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: b4:e6:2d:97:3e:7d
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Configuring flash size...
+Auto-detected Flash size: 4MB
+Compressed 15088 bytes to 9755...
+Writing at 0x00001000... (100 %)Wrote 15088 bytes (9755 compressed) at 0x00001000 in 0.2 seconds (effective 540.3 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 144...
+Writing at 0x00008000... (100 %)Wrote 3072 bytes (144 compressed) at 0x00008000 in 0.0 seconds (effective 3591.0 kbit/s)...
+Hash of data verified.
+Compressed 8192 bytes to 47...
+Writing at 0x0000e000... (100 %)Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 13666.0 kbit/s)...
+Hash of data verified.
+Compressed 1019760 bytes to 593503...
+Writing at 0x00010000... (2 %)Writing at 0x00014000... (5 %)Writing at 0x00018000... (8 %)Writing at 0x0001c000... (10 %)Writing at 0x00020000... (13 %)Writing at 0x00024000... (16 %)Writing at 0x00028000... (18 %)Writing at 0x0002c000... (21 %)Writing at 0x00030000... (24 %)Writing at 0x00034000... (27 %)Writing at 0x00038000... (29 %)Writing at 0x0003c000... (32 %)Writing at 0x00040000... (35 %)Writing at 0x00044000... (37 %)Writing at 0x00048000... (40 %)Writing at 0x0004c000... (43 %)Writing at 0x00050000... (45 %)Writing at 0x00054000... (48 %)Writing at 0x00058000... (51 %)Writing at 0x0005c000... (54 %)Writing at 0x00060000... (56 %)Writing at 0x00064000... (59 %)Writing at 0x00068000... (62 %)Writing at 0x0006c000... (64 %)Writing at 0x00070000... (67 %)Writing at 0x00074000... (70 %)Writing at 0x00078000... (72 %)Writing at 0x0007c000... (75 %)Writing at 0x00080000... (78 %)Writing at 0x00084000... (81 %)Writing at 0x00088000... (83 %)Writing at 0x0008c000... (86 %)Writing at 0x00090000... (89 %)Writing at 0x00094000... (91 %)Writing at 0x00098000... (94 %)Writing at 0x0009c000... (97 %)Writing at 0x000a0000... (100 %)Wrote 1019760 bytes (593503 compressed) at 0x00010000 in 13.6 seconds (effective 599.5 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...
+
+==============================
+2018-11-15 10:21:36 +0800
+460800
+
+==============================
+2018-11-15 10:22:22 +0800
+esptool_ttyUSB0.py: no process found
+
+==============================
+2018-11-15 11:10:46 +0800
+4004 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: b4:e6:2d:97:3d:39
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Erasing flash (this may take a while)...
+Chip erase completed successfully in 3.2s
+Hard resetting via RTS pin...
+
+==============================
+2018-11-15 11:10:50 +0800
+4004 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: b4:e6:2d:97:3d:39
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Configuring flash size...
+Auto-detected Flash size: 4MB
+Compressed 15088 bytes to 9755...
+Writing at 0x00001000... (100 %)Wrote 15088 bytes (9755 compressed) at 0x00001000 in 0.2 seconds (effective 546.2 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 144...
+Writing at 0x00008000... (100 %)Wrote 3072 bytes (144 compressed) at 0x00008000 in 0.0 seconds (effective 3779.0 kbit/s)...
+Hash of data verified.
+Compressed 8192 bytes to 47...
+Writing at 0x0000e000... (100 %)Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 15298.2 kbit/s)...
+Hash of data verified.
+Compressed 1019760 bytes to 593503...
+Writing at 0x00010000... (2 %)Writing at 0x00014000... (5 %)Writing at 0x00018000... (8 %)Writing at 0x0001c000... (10 %)Writing at 0x00020000... (13 %)Writing at 0x00024000... (16 %)Writing at 0x00028000... (18 %)Writing at 0x0002c000... (21 %)Writing at 0x00030000... (24 %)Writing at 0x00034000... (27 %)Writing at 0x00038000... (29 %)Writing at 0x0003c000... (32 %)Writing at 0x00040000... (35 %)Writing at 0x00044000... (37 %)Writing at 0x00048000... (40 %)Writing at 0x0004c000... (43 %)Writing at 0x00050000... (45 %)Writing at 0x00054000... (48 %)Writing at 0x00058000... (51 %)Writing at 0x0005c000... (54 %)Writing at 0x00060000... (56 %)Writing at 0x00064000... (59 %)Writing at 0x00068000... (62 %)Writing at 0x0006c000... (64 %)Writing at 0x00070000... (67 %)Writing at 0x00074000... (70 %)Writing at 0x00078000... (72 %)Writing at 0x0007c000... (75 %)Writing at 0x00080000... (78 %)Writing at 0x00084000... (81 %)Writing at 0x00088000... (83 %)Writing at 0x0008c000... (86 %)Writing at 0x00090000... (89 %)Writing at 0x00094000... (91 %)Writing at 0x00098000... (94 %)Writing at 0x0009c000... (97 %)Writing at 0x000a0000... (100 %)Wrote 1019760 bytes (593503 compressed) at 0x00010000 in 13.5 seconds (effective 602.5 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...
+
+==============================
+2018-11-15 11:11:07 +0800
+460800
+
+==============================
+2018-11-15 11:11:24 +0800
+esptool_ttyUSB0.py: no process found
+
+==============================
+2018-11-20 18:09:02 +0800
+esptool_ttyUSB0.py: no process found
+
+==============================
+2018-11-21 10:03:32 +0800
+3612 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: b4:e6:2d:97:3d:dd
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Erasing flash (this may take a while)...
+Chip erase completed successfully in 3.3s
+Hard resetting via RTS pin...
+
+==============================
+2018-11-21 10:03:36 +0800
+3612 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting.....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: b4:e6:2d:97:3d:dd
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Configuring flash size...
+Auto-detected Flash size: 4MB
+Compressed 15088 bytes to 9755...
+Writing at 0x00001000... (100 %)Wrote 15088 bytes (9755 compressed) at 0x00001000 in 0.2 seconds (effective 546.4 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 144...
+Writing at 0x00008000... (100 %)Wrote 3072 bytes (144 compressed) at 0x00008000 in 0.0 seconds (effective 3812.5 kbit/s)...
+Hash of data verified.
+Compressed 8192 bytes to 47...
+Writing at 0x0000e000... (100 %)Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 15405.4 kbit/s)...
+Hash of data verified.
+Compressed 1020560 bytes to 593985...
+Writing at 0x00010000... (2 %)Writing at 0x00014000... (5 %)Writing at 0x00018000... (8 %)Writing at 0x0001c000... (10 %)Writing at 0x00020000... (13 %)Writing at 0x00024000... (16 %)Writing at 0x00028000... (18 %)Writing at 0x0002c000... (21 %)Writing at 0x00030000... (24 %)Writing at 0x00034000... (27 %)Writing at 0x00038000... (29 %)Writing at 0x0003c000... (32 %)Writing at 0x00040000... (35 %)Writing at 0x00044000... (37 %)Writing at 0x00048000... (40 %)Writing at 0x0004c000... (43 %)Writing at 0x00050000... (45 %)Writing at 0x00054000... (48 %)Writing at 0x00058000... (51 %)Writing at 0x0005c000... (54 %)Writing at 0x00060000... (56 %)Writing at 0x00064000... (59 %)Writing at 0x00068000... (62 %)Writing at 0x0006c000... (64 %)Writing at 0x00070000... (67 %)Writing at 0x00074000... (70 %)Writing at 0x00078000... (72 %)Writing at 0x0007c000... (75 %)Writing at 0x00080000... (78 %)Writing at 0x00084000... (81 %)Writing at 0x00088000... (83 %)Writing at 0x0008c000... (86 %)Writing at 0x00090000... (89 %)Writing at 0x00094000... (91 %)Writing at 0x00098000... (94 %)Writing at 0x0009c000... (97 %)Writing at 0x000a0000... (100 %)Wrote 1020560 bytes (593985 compressed) at 0x00010000 in 13.6 seconds (effective 602.0 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...
+
+==============================
+2018-11-21 10:03:53 +0800
+460800
+
+==============================
+2018-11-21 11:09:06 +0800
+esptool_ttyUSB0.py: no process found
+
+==============================
+2018-11-21 11:10:14 +0800
+3695 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting........_____....._____....._____....._____....._____....._____....._____
+
+A fatal error occurred: Failed to connect to ESP32: Timed out waiting for packet header
+
+==============================
+2018-11-21 11:10:38 +0800
+3695 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting........_____....._____....._____....._____....._____....._____....._____
+
+A fatal error occurred: Failed to connect to ESP32: Timed out waiting for packet header
+
+==============================
+2018-11-21 11:11:02 +0800
+115200
+
+==============================
+2018-11-21 12:11:24 +0800
+esptool_ttyUSB0.py: no process found
+
+==============================
+2018-11-21 12:11:50 +0800
+3782 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting........_____....._____....._____....._____....._____....._____....._____
+
+A fatal error occurred: Failed to connect to ESP32: Timed out waiting for packet header
+
+==============================
+2018-11-21 12:12:14 +0800
+3782 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting........_____....._____....._____....._____....._____.....
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 501, in read
+    'device reports readiness to read but returned no data '
+serial.serialutil.SerialException: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2852, in <module>
+    _main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2845, in _main
+    main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2553, in main
+    esp.connect(args.before)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 449, in connect
+    last_error = self._connect_attempt(mode=mode, esp32r0_delay=True)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 426, in _connect_attempt
+    self.sync()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 365, in sync
+    timeout=SYNC_TIMEOUT)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 318, in command
+    p = self.read()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 263, in read
+    return next(self._slip_reader)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 1796, in slip_reader
+    read_bytes = port.read(1 if waiting == 0 else waiting)
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 509, in read
+    raise SerialException('read failed: {}'.format(e))
+serial.serialutil.SerialException: read failed: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+
+==============================
+2018-11-21 12:12:34 +0800
+115200
+
+==============================
+2018-11-21 13:29:40 +0800
+esptool_ttyUSB0.py: no process found
+
+==============================
+2018-11-21 14:41:17 +0800
+3966 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting......
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 501, in read
+    'device reports readiness to read but returned no data '
+serial.serialutil.SerialException: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 318, in command
+    p = self.read()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 263, in read
+    return next(self._slip_reader)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 1796, in slip_reader
+    read_bytes = port.read(1 if waiting == 0 else waiting)
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 509, in read
+    raise SerialException('read failed: {}'.format(e))
+serial.serialutil.SerialException: read failed: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 323, in _reconfigure_port
+    orig_attr = termios.tcgetattr(self.fd)
+termios.error: (5, 'Input/output error')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2852, in <module>
+    _main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2845, in _main
+    main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2553, in main
+    esp.connect(args.before)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 446, in connect
+    last_error = self._connect_attempt(mode=mode, esp32r0_delay=False)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 426, in _connect_attempt
+    self.sync()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 365, in sync
+    timeout=SYNC_TIMEOUT)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 329, in command
+    self._port.timeout = saved_timeout
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialutil.py", line 368, in timeout
+    self._reconfigure_port()
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 326, in _reconfigure_port
+    raise SerialException("Could not configure port: {}".format(msg))
+serial.serialutil.SerialException: Could not configure port: (5, 'Input/output error')
+
+==============================
+2018-11-21 14:41:18 +0800
+3966 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 265, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2852, in <module>
+    _main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2845, in _main
+    main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2552, in main
+    esp = chip_class(each_port, initial_baud, args.trace)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 213, in __init__
+    self._port = serial.serial_for_url(port)
+  File "/usr/local/lib/python3.6/dist-packages/serial/__init__.py", line 88, in serial_for_url
+    instance.open()
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 268, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+
+==============================
+2018-11-21 14:41:18 +0800
+stty: /dev/ttyUSB0: No such file or directory
+cat: /dev/ttyUSB0: No such file or directory
+
+==============================
+2018-11-21 14:41:18 +0800
+esptool_ttyUSB0.py: no process found
+
+==============================
+2018-11-21 14:41:19 +0800
+3980 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting........_____....._____....._____....._____....._____....._____....._____
+
+A fatal error occurred: Failed to connect to ESP32: Timed out waiting for packet header
+
+==============================
+2018-11-21 14:41:43 +0800
+3980 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting........_____....._____....._____....._____....._____....._____....._____
+
+A fatal error occurred: Failed to connect to ESP32: Timed out waiting for packet header
+
+==============================
+2018-11-21 14:42:07 +0800
+115200
+
+==============================
+2018-11-21 14:42:08 +0800
+esptool_ttyUSB0.py: no process found
+
+==============================
+2018-11-21 14:42:29 +0800
+3994 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting........_____....._____....._____....._____....._____
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 501, in read
+    'device reports readiness to read but returned no data '
+serial.serialutil.SerialException: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 318, in command
+    p = self.read()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 263, in read
+    return next(self._slip_reader)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 1796, in slip_reader
+    read_bytes = port.read(1 if waiting == 0 else waiting)
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 509, in read
+    raise SerialException('read failed: {}'.format(e))
+serial.serialutil.SerialException: read failed: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 323, in _reconfigure_port
+    orig_attr = termios.tcgetattr(self.fd)
+termios.error: (5, 'Input/output error')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2852, in <module>
+    _main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2845, in _main
+    main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2553, in main
+    esp.connect(args.before)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 446, in connect
+    last_error = self._connect_attempt(mode=mode, esp32r0_delay=False)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 426, in _connect_attempt
+    self.sync()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 365, in sync
+    timeout=SYNC_TIMEOUT)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 329, in command
+    self._port.timeout = saved_timeout
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialutil.py", line 368, in timeout
+    self._reconfigure_port()
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 326, in _reconfigure_port
+    raise SerialException("Could not configure port: {}".format(msg))
+serial.serialutil.SerialException: Could not configure port: (5, 'Input/output error')
+
+==============================
+2018-11-21 14:42:46 +0800
+3994 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 265, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2852, in <module>
+    _main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2845, in _main
+    main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2552, in main
+    esp = chip_class(each_port, initial_baud, args.trace)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 213, in __init__
+    self._port = serial.serial_for_url(port)
+  File "/usr/local/lib/python3.6/dist-packages/serial/__init__.py", line 88, in serial_for_url
+    instance.open()
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 268, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+
+==============================
+2018-11-21 14:42:47 +0800
+stty: /dev/ttyUSB0: No such file or directory
+cat: /dev/ttyUSB0: No such file or directory
+
+==============================
+2018-11-21 14:42:47 +0800
+esptool_ttyUSB0.py: no process found
+
+==============================
+2018-11-21 14:49:13 +0800
+4081 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting.....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: cc:50:e3:8a:6c:68
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Erasing flash (this may take a while)...
+Chip erase completed successfully in 10.3s
+Hard resetting via RTS pin...
+
+==============================
+2018-11-21 14:49:24 +0800
+4081 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: cc:50:e3:8a:6c:68
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Configuring flash size...
+Auto-detected Flash size: 4MB
+Compressed 15088 bytes to 9755...
+Writing at 0x00001000... (100 %)Wrote 15088 bytes (9755 compressed) at 0x00001000 in 0.2 seconds (effective 546.0 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 144...
+Writing at 0x00008000... (100 %)Wrote 3072 bytes (144 compressed) at 0x00008000 in 0.0 seconds (effective 3796.8 kbit/s)...
+Hash of data verified.
+Compressed 8192 bytes to 47...
+Writing at 0x0000e000... (100 %)Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 15605.6 kbit/s)...
+Hash of data verified.
+Compressed 1020560 bytes to 593985...
+Writing at 0x00010000... (2 %)Writing at 0x00014000... (5 %)Writing at 0x00018000... (8 %)Writing at 0x0001c000... (10 %)Writing at 0x00020000... (13 %)Writing at 0x00024000... (16 %)Writing at 0x00028000... (18 %)Writing at 0x0002c000... (21 %)Writing at 0x00030000... (24 %)Writing at 0x00034000... (27 %)Writing at 0x00038000... (29 %)Writing at 0x0003c000... (32 %)Writing at 0x00040000... (35 %)Writing at 0x00044000... (37 %)Writing at 0x00048000... (40 %)Writing at 0x0004c000... (43 %)Writing at 0x00050000... (45 %)Writing at 0x00054000... (48 %)Writing at 0x00058000... (51 %)Writing at 0x0005c000... (54 %)Writing at 0x00060000... (56 %)Writing at 0x00064000... (59 %)Writing at 0x00068000... (62 %)Writing at 0x0006c000... (64 %)Writing at 0x00070000... (67 %)Writing at 0x00074000... (70 %)Writing at 0x00078000... (72 %)Writing at 0x0007c000... (75 %)Writing at 0x00080000... (78 %)Writing at 0x00084000... (81 %)Writing at 0x00088000... (83 %)Writing at 0x0008c000... (86 %)Writing at 0x00090000... (89 %)Writing at 0x00094000... (91 %)Writing at 0x00098000... (94 %)Writing at 0x0009c000... (97 %)Writing at 0x000a0000... (100 %)Wrote 1020560 bytes (593985 compressed) at 0x00010000 in 13.7 seconds (effective 594.8 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...
+
+==============================
+2018-11-21 14:49:41 +0800
+460800
+
+==============================
+2018-11-21 14:50:42 +0800
+esptool_ttyUSB0.py: no process found
+
+==============================
+2018-11-21 14:50:47 +0800
+4263 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting.....
+Traceback (most recent call last):
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2852, in <module>
+    _main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2845, in _main
+    main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2553, in main
+    esp.connect(args.before)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 446, in connect
+    last_error = self._connect_attempt(mode=mode, esp32r0_delay=False)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 424, in _connect_attempt
+    self.flush_input()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 360, in flush_input
+    self._port.flushInput()
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialutil.py", line 584, in flushInput
+    self.reset_input_buffer()
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 595, in reset_input_buffer
+    termios.tcflush(self.fd, termios.TCIFLUSH)
+termios.error: (5, 'Input/output error')
+
+==============================
+2018-11-21 14:50:48 +0800
+4263 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 265, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2852, in <module>
+    _main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2845, in _main
+    main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2552, in main
+    esp = chip_class(each_port, initial_baud, args.trace)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 213, in __init__
+    self._port = serial.serial_for_url(port)
+  File "/usr/local/lib/python3.6/dist-packages/serial/__init__.py", line 88, in serial_for_url
+    instance.open()
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 268, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+
+==============================
+2018-11-21 14:50:48 +0800
+stty: /dev/ttyUSB0: No such file or directory
+cat: /dev/ttyUSB0: No such file or directory
+
+==============================
+2018-11-21 14:50:48 +0800
+esptool_ttyUSB0.py: no process found
+
+==============================
+2018-11-21 14:50:51 +0800
+4277 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting.....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: 30:ae:a4:f0:33:38
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Erasing flash (this may take a while)...
+Chip erase completed successfully in 9.8s
+Hard resetting via RTS pin...
+
+==============================
+2018-11-21 14:51:02 +0800
+4277 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: 30:ae:a4:f0:33:38
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Configuring flash size...
+Auto-detected Flash size: 4MB
+Compressed 15088 bytes to 9755...
+Writing at 0x00001000... (100 %)Wrote 15088 bytes (9755 compressed) at 0x00001000 in 0.2 seconds (effective 530.1 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 144...
+Writing at 0x00008000... (100 %)Wrote 3072 bytes (144 compressed) at 0x00008000 in 0.0 seconds (effective 3550.0 kbit/s)...
+Hash of data verified.
+Compressed 8192 bytes to 47...
+Writing at 0x0000e000... (100 %)Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 13286.8 kbit/s)...
+Hash of data verified.
+Compressed 1020560 bytes to 593985...
+Writing at 0x00010000... (2 %)Writing at 0x00014000... (5 %)Writing at 0x00018000... (8 %)Writing at 0x0001c000... (10 %)Writing at 0x00020000... (13 %)Writing at 0x00024000... (16 %)Writing at 0x00028000... (18 %)Writing at 0x0002c000... (21 %)Writing at 0x00030000... (24 %)Writing at 0x00034000... (27 %)Writing at 0x00038000... (29 %)Writing at 0x0003c000... (32 %)Writing at 0x00040000... (35 %)Writing at 0x00044000... (37 %)Writing at 0x00048000... (40 %)Writing at 0x0004c000... (43 %)Writing at 0x00050000... (45 %)Writing at 0x00054000... (48 %)Writing at 0x00058000... (51 %)Writing at 0x0005c000... (54 %)Writing at 0x00060000... (56 %)Writing at 0x00064000... (59 %)Writing at 0x00068000... (62 %)Writing at 0x0006c000... (64 %)Writing at 0x00070000... (67 %)Writing at 0x00074000... (70 %)Writing at 0x00078000... (72 %)Writing at 0x0007c000... (75 %)Writing at 0x00080000... (78 %)Writing at 0x00084000... (81 %)Writing at 0x00088000... (83 %)Writing at 0x0008c000... (86 %)Writing at 0x00090000... (89 %)Writing at 0x00094000... (91 %)Writing at 0x00098000... (94 %)Writing at 0x0009c000... (97 %)Writing at 0x000a0000... (100 %)Wrote 1020560 bytes (593985 compressed) at 0x00010000 in 13.8 seconds (effective 591.4 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...
+
+==============================
+2018-11-21 14:51:18 +0800
+460800
+
+==============================
+2018-11-21 14:51:46 +0800
+esptool_ttyUSB0.py: no process found
+
+==============================
+2018-11-21 14:51:49 +0800
+4312 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: 30:ae:a4:f0:33:38
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Erasing flash (this may take a while)...
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 501, in read
+    'device reports readiness to read but returned no data '
+serial.serialutil.SerialException: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 318, in command
+    p = self.read()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 263, in read
+    return next(self._slip_reader)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 1796, in slip_reader
+    read_bytes = port.read(1 if waiting == 0 else waiting)
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 509, in read
+    raise SerialException('read failed: {}'.format(e))
+serial.serialutil.SerialException: read failed: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 323, in _reconfigure_port
+    orig_attr = termios.tcgetattr(self.fd)
+termios.error: (5, 'Input/output error')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2852, in <module>
+    _main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2845, in _main
+    main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2597, in main
+    operation_func(esp, args)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2205, in erase_flash
+    esp.erase_flash()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 95, in inner
+    return func(*args, **kwargs)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 661, in erase_flash
+    timeout=CHIP_ERASE_TIMEOUT)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 340, in check_command
+    val, data = self.command(op, data, chk, timeout=timeout)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 329, in command
+    self._port.timeout = saved_timeout
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialutil.py", line 368, in timeout
+    self._reconfigure_port()
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 326, in _reconfigure_port
+    raise SerialException("Could not configure port: {}".format(msg))
+serial.serialutil.SerialException: Could not configure port: (5, 'Input/output error')
+
+==============================
+2018-11-21 14:51:50 +0800
+4312 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 265, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2852, in <module>
+    _main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2845, in _main
+    main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2552, in main
+    esp = chip_class(each_port, initial_baud, args.trace)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 213, in __init__
+    self._port = serial.serial_for_url(port)
+  File "/usr/local/lib/python3.6/dist-packages/serial/__init__.py", line 88, in serial_for_url
+    instance.open()
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 268, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+
+==============================
+2018-11-21 14:51:50 +0800
+stty: /dev/ttyUSB0: No such file or directory
+cat: /dev/ttyUSB0: No such file or directory
+
+==============================
+2018-11-21 14:51:50 +0800
+esptool_ttyUSB0.py: no process found
+
+==============================
+2018-11-21 14:51:51 +0800
+4326 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: 30:ae:a4:f0:33:38
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Erasing flash (this may take a while)...
+Chip erase completed successfully in 9.6s
+Hard resetting via RTS pin...
+
+==============================
+2018-11-21 14:52:02 +0800
+4326 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: 30:ae:a4:f0:33:38
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Configuring flash size...
+Auto-detected Flash size: 4MB
+Compressed 15088 bytes to 9755...
+Writing at 0x00001000... (100 %)Wrote 15088 bytes (9755 compressed) at 0x00001000 in 0.2 seconds (effective 541.5 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 144...
+Writing at 0x00008000... (100 %)Wrote 3072 bytes (144 compressed) at 0x00008000 in 0.0 seconds (effective 3790.4 kbit/s)...
+Hash of data verified.
+Compressed 8192 bytes to 47...
+Writing at 0x0000e000... (100 %)Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 14497.0 kbit/s)...
+Hash of data verified.
+Compressed 1020560 bytes to 593985...
+Writing at 0x00010000... (2 %)Writing at 0x00014000... (5 %)Writing at 0x00018000... (8 %)Writing at 0x0001c000... (10 %)Writing at 0x00020000... (13 %)Writing at 0x00024000... (16 %)Writing at 0x00028000... (18 %)Writing at 0x0002c000... (21 %)Writing at 0x00030000... (24 %)Writing at 0x00034000... (27 %)Writing at 0x00038000... (29 %)Writing at 0x0003c000... (32 %)Writing at 0x00040000... (35 %)Writing at 0x00044000... (37 %)Writing at 0x00048000... (40 %)Writing at 0x0004c000... (43 %)Writing at 0x00050000... (45 %)Writing at 0x00054000... (48 %)Writing at 0x00058000... (51 %)Writing at 0x0005c000... (54 %)Writing at 0x00060000... (56 %)Writing at 0x00064000... (59 %)Writing at 0x00068000... (62 %)Writing at 0x0006c000... (64 %)Writing at 0x00070000... (67 %)Writing at 0x00074000... (70 %)Writing at 0x00078000... (72 %)Writing at 0x0007c000... (75 %)Writing at 0x00080000... (78 %)Writing at 0x00084000... (81 %)Writing at 0x00088000... (83 %)Writing at 0x0008c000... (86 %)Writing at 0x00090000... (89 %)Writing at 0x00094000... (91 %)Writing at 0x00098000... (94 %)Writing at 0x0009c000... (97 %)Writing at 0x000a0000... (100 %)Wrote 1020560 bytes (593985 compressed) at 0x00010000 in 13.7 seconds (effective 595.5 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...
+
+==============================
+2018-11-21 14:52:19 +0800
+460800
+
+==============================
+2018-11-21 14:53:24 +0800
+esptool_ttyUSB0.py: no process found
+
+==============================
+2018-11-21 14:53:33 +0800
+4347 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting.......
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: 30:ae:a4:f0:33:38
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Erasing flash (this may take a while)...
+Chip erase completed successfully in 9.5s
+Hard resetting via RTS pin...
+
+==============================
+2018-11-21 14:53:44 +0800
+4347 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting......
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: 30:ae:a4:f0:33:38
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Configuring flash size...
+Auto-detected Flash size: 4MB
+Compressed 15088 bytes to 9755...
+Writing at 0x00001000... (100 %)Wrote 15088 bytes (9755 compressed) at 0x00001000 in 0.2 seconds (effective 541.7 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 144...
+Writing at 0x00008000... (100 %)Wrote 3072 bytes (144 compressed) at 0x00008000 in 0.0 seconds (effective 3517.8 kbit/s)...
+Hash of data verified.
+Compressed 8192 bytes to 47...
+Writing at 0x0000e000... (100 %)Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 13985.9 kbit/s)...
+Hash of data verified.
+Compressed 1020560 bytes to 593985...
+Writing at 0x00010000... (2 %)Writing at 0x00014000... (5 %)Writing at 0x00018000... (8 %)Writing at 0x0001c000... (10 %)Writing at 0x00020000... (13 %)Writing at 0x00024000... (16 %)Writing at 0x00028000... (18 %)Writing at 0x0002c000... (21 %)Writing at 0x00030000... (24 %)Writing at 0x00034000... (27 %)Writing at 0x00038000... (29 %)Writing at 0x0003c000... (32 %)Writing at 0x00040000... (35 %)Writing at 0x00044000... (37 %)Writing at 0x00048000... (40 %)Writing at 0x0004c000... (43 %)Writing at 0x00050000... (45 %)Writing at 0x00054000... (48 %)Writing at 0x00058000... (51 %)Writing at 0x0005c000... (54 %)Writing at 0x00060000... (56 %)Writing at 0x00064000... (59 %)Writing at 0x00068000... (62 %)Writing at 0x0006c000... (64 %)Writing at 0x00070000... (67 %)Writing at 0x00074000... (70 %)Writing at 0x00078000... (72 %)Writing at 0x0007c000... (75 %)Writing at 0x00080000... (78 %)Writing at 0x00084000... (81 %)Writing at 0x00088000... (83 %)Writing at 0x0008c000... (86 %)Writing at 0x00090000... (89 %)Writing at 0x00094000... (91 %)Writing at 0x00098000... (94 %)Writing at 0x0009c000... (97 %)Writing at 0x000a0000... (100 %)Wrote 1020560 bytes (593985 compressed) at 0x00010000 in 13.7 seconds (effective 596.1 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...
+
+==============================
+2018-11-21 14:54:01 +0800
+460800
+
+==============================
+2018-11-21 14:54:37 +0800
+esptool_ttyUSB0.py: no process found
+
+==============================
+2018-11-21 14:57:55 +0800
+4403 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: cc:50:e3:8a:6c:68
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Erasing flash (this may take a while)...
+Chip erase completed successfully in 9.9s
+Hard resetting via RTS pin...
+
+==============================
+2018-11-21 14:58:06 +0800
+4403 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting.....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: cc:50:e3:8a:6c:68
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Configuring flash size...
+Auto-detected Flash size: 4MB
+Compressed 15088 bytes to 9755...
+Writing at 0x00001000... (100 %)Wrote 15088 bytes (9755 compressed) at 0x00001000 in 0.2 seconds (effective 537.2 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 144...
+Writing at 0x00008000... (100 %)Wrote 3072 bytes (144 compressed) at 0x00008000 in 0.0 seconds (effective 3540.7 kbit/s)...
+Hash of data verified.
+Compressed 8192 bytes to 47...
+Writing at 0x0000e000... (100 %)Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 13831.7 kbit/s)...
+Hash of data verified.
+Compressed 1020560 bytes to 593985...
+Writing at 0x00010000... (2 %)Writing at 0x00014000... (5 %)Writing at 0x00018000... (8 %)Writing at 0x0001c000... (10 %)Writing at 0x00020000... (13 %)Writing at 0x00024000... (16 %)Writing at 0x00028000... (18 %)Writing at 0x0002c000... (21 %)Writing at 0x00030000... (24 %)Writing at 0x00034000... (27 %)Writing at 0x00038000... (29 %)Writing at 0x0003c000... (32 %)Writing at 0x00040000... (35 %)Writing at 0x00044000... (37 %)Writing at 0x00048000... (40 %)Writing at 0x0004c000... (43 %)Writing at 0x00050000... (45 %)Writing at 0x00054000... (48 %)Writing at 0x00058000... (51 %)Writing at 0x0005c000... (54 %)Writing at 0x00060000... (56 %)Writing at 0x00064000... (59 %)Writing at 0x00068000... (62 %)Writing at 0x0006c000... (64 %)Writing at 0x00070000... (67 %)Writing at 0x00074000... (70 %)Writing at 0x00078000... (72 %)Writing at 0x0007c000... (75 %)Writing at 0x00080000... (78 %)Writing at 0x00084000... (81 %)Writing at 0x00088000... (83 %)Writing at 0x0008c000... (86 %)Writing at 0x00090000... (89 %)Writing at 0x00094000... (91 %)Writing at 0x00098000... (94 %)Writing at 0x0009c000... (97 %)Writing at 0x000a0000... (100 %)Wrote 1020560 bytes (593985 compressed) at 0x00010000 in 13.7 seconds (effective 594.8 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...
+
+==============================
+2018-11-21 14:58:23 +0800
+460800
+
+==============================
+2018-11-21 14:59:51 +0800
+esptool_ttyUSB0.py: no process found
+
+==============================
+2018-11-21 15:01:38 +0800
+4459 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: 30:ae:a4:f0:33:1c
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Erasing flash (this may take a while)...
+Chip erase completed successfully in 10.1s
+Hard resetting via RTS pin...
+
+==============================
+2018-11-21 15:01:49 +0800
+4459 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting.....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: 30:ae:a4:f0:33:1c
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Configuring flash size...
+Auto-detected Flash size: 4MB
+Compressed 15088 bytes to 9755...
+Writing at 0x00001000... (100 %)Wrote 15088 bytes (9755 compressed) at 0x00001000 in 0.2 seconds (effective 540.3 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 144...
+Writing at 0x00008000... (100 %)Wrote 3072 bytes (144 compressed) at 0x00008000 in 0.0 seconds (effective 3657.1 kbit/s)...
+Hash of data verified.
+Compressed 8192 bytes to 47...
+Writing at 0x0000e000... (100 %)Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 14028.0 kbit/s)...
+Hash of data verified.
+Compressed 1020560 bytes to 593985...
+Writing at 0x00010000... (2 %)Writing at 0x00014000... (5 %)Writing at 0x00018000... (8 %)Writing at 0x0001c000... (10 %)Writing at 0x00020000... (13 %)Writing at 0x00024000... (16 %)Writing at 0x00028000... (18 %)Writing at 0x0002c000... (21 %)Writing at 0x00030000... (24 %)Writing at 0x00034000... (27 %)Writing at 0x00038000... (29 %)Writing at 0x0003c000... (32 %)Writing at 0x00040000... (35 %)Writing at 0x00044000... (37 %)Writing at 0x00048000... (40 %)Writing at 0x0004c000... (43 %)Writing at 0x00050000... (45 %)Writing at 0x00054000... (48 %)Writing at 0x00058000... (51 %)Writing at 0x0005c000... (54 %)Writing at 0x00060000... (56 %)Writing at 0x00064000... (59 %)Writing at 0x00068000... (62 %)Writing at 0x0006c000... (64 %)Writing at 0x00070000... (67 %)Writing at 0x00074000... (70 %)Writing at 0x00078000... (72 %)Writing at 0x0007c000... (75 %)Writing at 0x00080000... (78 %)Writing at 0x00084000... (81 %)Writing at 0x00088000... (83 %)Writing at 0x0008c000... (86 %)Writing at 0x00090000... (89 %)Writing at 0x00094000... (91 %)Writing at 0x00098000... (94 %)Writing at 0x0009c000... (97 %)Writing at 0x000a0000... (100 %)Wrote 1020560 bytes (593985 compressed) at 0x00010000 in 13.7 seconds (effective 595.6 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...
+
+==============================
+2018-11-21 15:02:06 +0800
+460800
+
+==============================
+2018-11-21 15:03:01 +0800
+esptool_ttyUSB0.py: no process found
+
+==============================
+2018-11-21 15:18:28 +0800
+4547 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: b4:e6:2d:97:3d:dd
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Erasing flash (this may take a while)...
+Chip erase completed successfully in 3.3s
+Hard resetting via RTS pin...
+
+==============================
+2018-11-21 15:18:33 +0800
+4547 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: b4:e6:2d:97:3d:dd
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Configuring flash size...
+Auto-detected Flash size: 4MB
+Compressed 15088 bytes to 9755...
+Writing at 0x00001000... (100 %)Wrote 15088 bytes (9755 compressed) at 0x00001000 in 0.2 seconds (effective 543.1 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 144...
+Writing at 0x00008000... (100 %)Wrote 3072 bytes (144 compressed) at 0x00008000 in 0.0 seconds (effective 3623.4 kbit/s)...
+Hash of data verified.
+Compressed 8192 bytes to 47...
+Writing at 0x0000e000... (100 %)Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 15169.9 kbit/s)...
+Hash of data verified.
+Compressed 1020560 bytes to 593985...
+Writing at 0x00010000... (2 %)Writing at 0x00014000... (5 %)Writing at 0x00018000... (8 %)Writing at 0x0001c000... (10 %)Writing at 0x00020000... (13 %)Writing at 0x00024000... (16 %)Writing at 0x00028000... (18 %)Writing at 0x0002c000... (21 %)Writing at 0x00030000... (24 %)Writing at 0x00034000... (27 %)Writing at 0x00038000... (29 %)Writing at 0x0003c000... (32 %)Writing at 0x00040000... (35 %)Writing at 0x00044000... (37 %)Writing at 0x00048000... (40 %)Writing at 0x0004c000... (43 %)Writing at 0x00050000... (45 %)Writing at 0x00054000... (48 %)Writing at 0x00058000... (51 %)Writing at 0x0005c000... (54 %)Writing at 0x00060000... (56 %)Writing at 0x00064000... (59 %)Writing at 0x00068000... (62 %)Writing at 0x0006c000... (64 %)Writing at 0x00070000... (67 %)Writing at 0x00074000... (70 %)Writing at 0x00078000... (72 %)Writing at 0x0007c000... (75 %)Writing at 0x00080000... (78 %)Writing at 0x00084000... (81 %)Writing at 0x00088000... (83 %)Writing at 0x0008c000... (86 %)Writing at 0x00090000... (89 %)Writing at 0x00094000... (91 %)Writing at 0x00098000... (94 %)Writing at 0x0009c000... (97 %)Writing at 0x000a0000... (100 %)Wrote 1020560 bytes (593985 compressed) at 0x00010000 in 13.6 seconds (effective 602.2 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...
+
+==============================
+2018-11-21 15:18:49 +0800
+460800
+
+==============================
+2018-11-21 15:19:49 +0800
+esptool_ttyUSB0.py: no process found
+
+==============================
+2018-11-21 16:50:53 +0800
+4751 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting........_____....._____....._____....._____....._____....._____....._____
+
+A fatal error occurred: Failed to connect to ESP32: Timed out waiting for packet header
+
+==============================
+2018-11-21 16:51:17 +0800
+4751 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting........_____....._____....._____....._____....._____....._____....._____
+
+A fatal error occurred: Failed to connect to ESP32: Timed out waiting for packet header
+
+==============================
+2018-11-21 16:51:41 +0800
+115200
+
+==============================
+2018-11-21 16:55:09 +0800
+esptool_ttyUSB0.py: no process found
+
+==============================
+2018-11-21 16:55:14 +0800
+4765 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting...
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 501, in read
+    'device reports readiness to read but returned no data '
+serial.serialutil.SerialException: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2852, in <module>
+    _main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2845, in _main
+    main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2553, in main
+    esp.connect(args.before)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 446, in connect
+    last_error = self._connect_attempt(mode=mode, esp32r0_delay=False)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 426, in _connect_attempt
+    self.sync()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 365, in sync
+    timeout=SYNC_TIMEOUT)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 318, in command
+    p = self.read()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 263, in read
+    return next(self._slip_reader)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 1796, in slip_reader
+    read_bytes = port.read(1 if waiting == 0 else waiting)
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 509, in read
+    raise SerialException('read failed: {}'.format(e))
+serial.serialutil.SerialException: read failed: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+
+==============================
+2018-11-21 16:55:15 +0800
+4765 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting...
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 501, in read
+    'device reports readiness to read but returned no data '
+serial.serialutil.SerialException: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2852, in <module>
+    _main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2845, in _main
+    main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2553, in main
+    esp.connect(args.before)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 446, in connect
+    last_error = self._connect_attempt(mode=mode, esp32r0_delay=False)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 426, in _connect_attempt
+    self.sync()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 365, in sync
+    timeout=SYNC_TIMEOUT)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 318, in command
+    p = self.read()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 263, in read
+    return next(self._slip_reader)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 1796, in slip_reader
+    read_bytes = port.read(1 if waiting == 0 else waiting)
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 509, in read
+    raise SerialException('read failed: {}'.format(e))
+serial.serialutil.SerialException: read failed: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+
+==============================
+2018-11-21 16:55:15 +0800
+115200
+
+==============================
+2018-11-21 17:03:24 +0800
+esptool_ttyUSB0.py: no process found
+
+==============================
+2018-11-21 17:10:34 +0800
+4840 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting........_____....._____....._____.....____
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 501, in read
+    'device reports readiness to read but returned no data '
+serial.serialutil.SerialException: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2852, in <module>
+    _main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2845, in _main
+    main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2553, in main
+    esp.connect(args.before)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 449, in connect
+    last_error = self._connect_attempt(mode=mode, esp32r0_delay=True)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 426, in _connect_attempt
+    self.sync()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 365, in sync
+    timeout=SYNC_TIMEOUT)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 318, in command
+    p = self.read()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 263, in read
+    return next(self._slip_reader)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 1796, in slip_reader
+    read_bytes = port.read(1 if waiting == 0 else waiting)
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 509, in read
+    raise SerialException('read failed: {}'.format(e))
+serial.serialutil.SerialException: read failed: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+
+==============================
+2018-11-21 17:10:45 +0800
+4840 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting...
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 501, in read
+    'device reports readiness to read but returned no data '
+serial.serialutil.SerialException: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2852, in <module>
+    _main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2845, in _main
+    main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2553, in main
+    esp.connect(args.before)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 446, in connect
+    last_error = self._connect_attempt(mode=mode, esp32r0_delay=False)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 426, in _connect_attempt
+    self.sync()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 365, in sync
+    timeout=SYNC_TIMEOUT)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 318, in command
+    p = self.read()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 263, in read
+    return next(self._slip_reader)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 1796, in slip_reader
+    read_bytes = port.read(1 if waiting == 0 else waiting)
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 509, in read
+    raise SerialException('read failed: {}'.format(e))
+serial.serialutil.SerialException: read failed: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+
+==============================
+2018-11-21 17:10:45 +0800
+115200
+
+==============================
+2018-11-21 17:40:57 +0800
+esptool_ttyUSB0.py: no process found
+
+==============================
+2018-11-21 18:17:53 +0800
+4971 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting........_____....._____....._____....._____....._____....._____....._____
+
+A fatal error occurred: Failed to connect to ESP32: Timed out waiting for packet header
+
+==============================
+2018-11-21 18:18:17 +0800
+4971 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting........_____....
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 501, in read
+    'device reports readiness to read but returned no data '
+serial.serialutil.SerialException: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2852, in <module>
+    _main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2845, in _main
+    main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2553, in main
+    esp.connect(args.before)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 446, in connect
+    last_error = self._connect_attempt(mode=mode, esp32r0_delay=False)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 426, in _connect_attempt
+    self.sync()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 365, in sync
+    timeout=SYNC_TIMEOUT)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 318, in command
+    p = self.read()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 263, in read
+    return next(self._slip_reader)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 1796, in slip_reader
+    read_bytes = port.read(1 if waiting == 0 else waiting)
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 509, in read
+    raise SerialException('read failed: {}'.format(e))
+serial.serialutil.SerialException: read failed: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+
+==============================
+2018-11-21 18:18:21 +0800
+115200
+
+==============================
+2018-11-21 19:52:32 +0800
+esptool_ttyUSB0.py: no process found
+
+==============================
+2018-11-22 09:49:46 +0800
+5235 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: cc:50:e3:8a:ad:60
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Erasing flash (this may take a while)...
+Chip erase completed successfully in 9.1s
+Hard resetting via RTS pin...
+
+==============================
+2018-11-22 09:49:56 +0800
+5235 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: cc:50:e3:8a:ad:60
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Configuring flash size...
+Auto-detected Flash size: 4MB
+Compressed 15088 bytes to 9755...
+Writing at 0x00001000... (100 %)Wrote 15088 bytes (9755 compressed) at 0x00001000 in 0.2 seconds (effective 546.3 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 144...
+Writing at 0x00008000... (100 %)Wrote 3072 bytes (144 compressed) at 0x00008000 in 0.0 seconds (effective 3797.6 kbit/s)...
+Hash of data verified.
+Compressed 8192 bytes to 47...
+Writing at 0x0000e000... (100 %)Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 15385.5 kbit/s)...
+Hash of data verified.
+Compressed 1020560 bytes to 593985...
+Writing at 0x00010000... (2 %)Writing at 0x00014000... (5 %)Writing at 0x00018000... (8 %)Writing at 0x0001c000... (10 %)Writing at 0x00020000... (13 %)Writing at 0x00024000... (16 %)Writing at 0x00028000... (18 %)Writing at 0x0002c000... (21 %)Writing at 0x00030000... (24 %)Writing at 0x00034000... (27 %)Writing at 0x00038000... (29 %)Writing at 0x0003c000... (32 %)Writing at 0x00040000... (35 %)Writing at 0x00044000... (37 %)Writing at 0x00048000... (40 %)Writing at 0x0004c000... (43 %)Writing at 0x00050000... (45 %)Writing at 0x00054000... (48 %)Writing at 0x00058000... (51 %)Writing at 0x0005c000... (54 %)Writing at 0x00060000... (56 %)Writing at 0x00064000... (59 %)Writing at 0x00068000... (62 %)Writing at 0x0006c000... (64 %)Writing at 0x00070000... (67 %)Writing at 0x00074000... (70 %)Writing at 0x00078000... (72 %)Writing at 0x0007c000... (75 %)Writing at 0x00080000... (78 %)Writing at 0x00084000... (81 %)Writing at 0x00088000... (83 %)Writing at 0x0008c000... (86 %)Writing at 0x00090000... (89 %)Writing at 0x00094000... (91 %)Writing at 0x00098000... (94 %)Writing at 0x0009c000... (97 %)Writing at 0x000a0000... (100 %)Wrote 1020560 bytes (593985 compressed) at 0x00010000 in 13.6 seconds (effective 599.1 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...
+
+==============================
+2018-11-22 09:50:13 +0800
+460800
+
+==============================
+2018-11-22 09:57:29 +0800
+esptool_ttyUSB0.py: no process found
+
+==============================
+2018-11-22 10:07:36 +0800
+5263 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: 30:ae:a4:f6:f1:4c
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Erasing flash (this may take a while)...
+Chip erase completed successfully in 9.3s
+Hard resetting via RTS pin...
+
+==============================
+2018-11-22 10:07:46 +0800
+5263 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: 30:ae:a4:f6:f1:4c
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Configuring flash size...
+Auto-detected Flash size: 4MB
+Compressed 15088 bytes to 9755...
+Writing at 0x00001000... (100 %)Wrote 15088 bytes (9755 compressed) at 0x00001000 in 0.2 seconds (effective 545.3 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 144...
+Writing at 0x00008000... (100 %)Wrote 3072 bytes (144 compressed) at 0x00008000 in 0.0 seconds (effective 3593.1 kbit/s)...
+Hash of data verified.
+Compressed 8192 bytes to 47...
+Writing at 0x0000e000... (100 %)Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 13809.5 kbit/s)...
+Hash of data verified.
+Compressed 1020560 bytes to 593985...
+Writing at 0x00010000... (2 %)Writing at 0x00014000... (5 %)Writing at 0x00018000... (8 %)Writing at 0x0001c000... (10 %)Writing at 0x00020000... (13 %)Writing at 0x00024000... (16 %)Writing at 0x00028000... (18 %)Writing at 0x0002c000... (21 %)Writing at 0x00030000... (24 %)Writing at 0x00034000... (27 %)Writing at 0x00038000... (29 %)Writing at 0x0003c000... (32 %)Writing at 0x00040000... (35 %)Writing at 0x00044000... (37 %)Writing at 0x00048000... (40 %)Writing at 0x0004c000... (43 %)Writing at 0x00050000... (45 %)Writing at 0x00054000... (48 %)Writing at 0x00058000... (51 %)Writing at 0x0005c000... (54 %)Writing at 0x00060000... (56 %)Writing at 0x00064000... (59 %)Writing at 0x00068000... (62 %)Writing at 0x0006c000... (64 %)Writing at 0x00070000... (67 %)Writing at 0x00074000... (70 %)Writing at 0x00078000... (72 %)Writing at 0x0007c000... (75 %)Writing at 0x00080000... (78 %)Writing at 0x00084000... (81 %)Writing at 0x00088000... (83 %)Writing at 0x0008c000... (86 %)Writing at 0x00090000... (89 %)Writing at 0x00094000... (91 %)Writing at 0x00098000... (94 %)Writing at 0x0009c000... (97 %)Writing at 0x000a0000... (100 %)Wrote 1020560 bytes (593985 compressed) at 0x00010000 in 13.7 seconds (effective 597.3 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...
+
+==============================
+2018-11-22 10:08:03 +0800
+460800
+
+==============================
+2018-11-22 10:08:29 +0800
+esptool_ttyUSB0.py: no process found
+
+==============================
+2018-11-22 10:15:43 +0800
+5277 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: cc:50:e3:8a:35:08
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Erasing flash (this may take a while)...
+Chip erase completed successfully in 11.1s
+Hard resetting via RTS pin...
+
+==============================
+2018-11-22 10:15:55 +0800
+5277 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: cc:50:e3:8a:35:08
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Configuring flash size...
+Auto-detected Flash size: 4MB
+Compressed 15088 bytes to 9755...
+Writing at 0x00001000... (100 %)Wrote 15088 bytes (9755 compressed) at 0x00001000 in 0.2 seconds (effective 537.1 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 144...
+Writing at 0x00008000... (100 %)Wrote 3072 bytes (144 compressed) at 0x00008000 in 0.0 seconds (effective 3695.8 kbit/s)...
+Hash of data verified.
+Compressed 8192 bytes to 47...
+Writing at 0x0000e000... (100 %)Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 14790.3 kbit/s)...
+Hash of data verified.
+Compressed 1020560 bytes to 593985...
+Writing at 0x00010000... (2 %)Writing at 0x00014000... (5 %)Writing at 0x00018000... (8 %)Writing at 0x0001c000... (10 %)Writing at 0x00020000... (13 %)Writing at 0x00024000... (16 %)Writing at 0x00028000... (18 %)Writing at 0x0002c000... (21 %)Writing at 0x00030000... (24 %)Writing at 0x00034000... (27 %)Writing at 0x00038000... (29 %)Writing at 0x0003c000... (32 %)Writing at 0x00040000... (35 %)Writing at 0x00044000... (37 %)Writing at 0x00048000... (40 %)Writing at 0x0004c000... (43 %)Writing at 0x00050000... (45 %)Writing at 0x00054000... (48 %)Writing at 0x00058000... (51 %)Writing at 0x0005c000... (54 %)Writing at 0x00060000... (56 %)Writing at 0x00064000... (59 %)Writing at 0x00068000... (62 %)Writing at 0x0006c000... (64 %)Writing at 0x00070000... (67 %)Writing at 0x00074000... (70 %)Writing at 0x00078000... (72 %)Writing at 0x0007c000... (75 %)Writing at 0x00080000... (78 %)Writing at 0x00084000... (81 %)Writing at 0x00088000... (83 %)Writing at 0x0008c000... (86 %)Writing at 0x00090000... (89 %)Writing at 0x00094000... (91 %)Writing at 0x00098000... (94 %)Writing at 0x0009c000... (97 %)Writing at 0x000a0000... (100 %)Wrote 1020560 bytes (593985 compressed) at 0x00010000 in 13.8 seconds (effective 592.7 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...
+
+==============================
+2018-11-22 10:16:12 +0800
+460800
+
+==============================
+2018-11-22 10:16:31 +0800
+esptool_ttyUSB0.py: no process found
+
+==============================
+2019-01-18 14:12:29 +0800
+3865 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting......
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: b4:e6:2d:97:49:b9
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Erasing flash (this may take a while)...
+Chip erase completed successfully in 3.7s
+Hard resetting via RTS pin...
+
+==============================
+2019-01-18 14:12:34 +0800
+3865 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting.....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: b4:e6:2d:97:49:b9
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Configuring flash size...
+Auto-detected Flash size: 4MB
+Compressed 15088 bytes to 9755...
+Writing at 0x00001000... (100 %)Wrote 15088 bytes (9755 compressed) at 0x00001000 in 0.2 seconds (effective 542.3 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 144...
+Writing at 0x00008000... (100 %)Wrote 3072 bytes (144 compressed) at 0x00008000 in 0.0 seconds (effective 3537.4 kbit/s)...
+Hash of data verified.
+Compressed 8192 bytes to 47...
+Writing at 0x0000e000... (100 %)Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 13752.1 kbit/s)...
+Hash of data verified.
+Compressed 1020560 bytes to 593985...
+Writing at 0x00010000... (2 %)Writing at 0x00014000... (5 %)Writing at 0x00018000... (8 %)Writing at 0x0001c000... (10 %)Writing at 0x00020000... (13 %)Writing at 0x00024000... (16 %)Writing at 0x00028000... (18 %)Writing at 0x0002c000... (21 %)Writing at 0x00030000... (24 %)Writing at 0x00034000... (27 %)Writing at 0x00038000... (29 %)Writing at 0x0003c000... (32 %)Writing at 0x00040000... (35 %)Writing at 0x00044000... (37 %)Writing at 0x00048000... (40 %)Writing at 0x0004c000... (43 %)Writing at 0x00050000... (45 %)Writing at 0x00054000... (48 %)Writing at 0x00058000... (51 %)Writing at 0x0005c000... (54 %)Writing at 0x00060000... (56 %)Writing at 0x00064000... (59 %)Writing at 0x00068000... (62 %)Writing at 0x0006c000... (64 %)Writing at 0x00070000... (67 %)Writing at 0x00074000... (70 %)Writing at 0x00078000... (72 %)Writing at 0x0007c000... (75 %)Writing at 0x00080000... (78 %)Writing at 0x00084000... (81 %)Writing at 0x00088000... (83 %)Writing at 0x0008c000... (86 %)Writing at 0x00090000... (89 %)Writing at 0x00094000... (91 %)Writing at 0x00098000... (94 %)Writing at 0x0009c000... (97 %)Writing at 0x000a0000... (100 %)Wrote 1020560 bytes (593985 compressed) at 0x00010000 in 13.6 seconds (effective 601.6 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...
+
+==============================
+2019-01-18 14:12:50 +0800
+460800
+
+==============================
+2019-01-18 14:15:49 +0800
+3879 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: b4:e6:2d:97:49:b9
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Erasing flash (this may take a while)...
+Chip erase completed successfully in 3.6s
+Hard resetting via RTS pin...
+
+==============================
+2019-01-18 14:15:54 +0800
+3879 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: b4:e6:2d:97:49:b9
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Configuring flash size...
+Auto-detected Flash size: 4MB
+Compressed 15088 bytes to 9755...
+Writing at 0x00001000... (100 %)Wrote 15088 bytes (9755 compressed) at 0x00001000 in 0.2 seconds (effective 540.4 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 144...
+Writing at 0x00008000... (100 %)Wrote 3072 bytes (144 compressed) at 0x00008000 in 0.0 seconds (effective 3819.7 kbit/s)...
+Hash of data verified.
+Compressed 8192 bytes to 47...
+Writing at 0x0000e000... (100 %)Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 12814.8 kbit/s)...
+Hash of data verified.
+Compressed 1020560 bytes to 593985...
+Writing at 0x00010000... (2 %)Writing at 0x00014000... (5 %)Writing at 0x00018000... (8 %)Writing at 0x0001c000... (10 %)Writing at 0x00020000... (13 %)Writing at 0x00024000... (16 %)Writing at 0x00028000... (18 %)Writing at 0x0002c000... (21 %)Writing at 0x00030000... (24 %)Writing at 0x00034000... (27 %)Writing at 0x00038000... (29 %)Writing at 0x0003c000... (32 %)Writing at 0x00040000... (35 %)Writing at 0x00044000... (37 %)Writing at 0x00048000... (40 %)Writing at 0x0004c000... (43 %)Writing at 0x00050000... (45 %)Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 537, in write
+    n = os.write(self.fd, d)
+OSError: [Errno 5] Input/output error
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 308, in command
+    self.write(pkt)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 271, in write
+    self._port.write(buf)
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 571, in write
+    raise SerialException('write failed: {}'.format(e))
+serial.serialutil.SerialException: write failed: [Errno 5] Input/output error
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 323, in _reconfigure_port
+    orig_attr = termios.tcgetattr(self.fd)
+termios.error: (5, 'Input/output error')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2852, in <module>
+    _main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2845, in _main
+    main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2597, in main
+    operation_func(esp, args)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2078, in write_flash
+    esp.flash_defl_block(block, seq, timeout=DEFAULT_TIMEOUT * ratio)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 95, in inner
+    return func(*args, **kwargs)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 618, in flash_defl_block
+    self.ESP_FLASH_DEFL_DATA, struct.pack('<IIII', len(data), seq, 0, 0) + data, self.checksum(data), timeout=timeout)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 340, in check_command
+    val, data = self.command(op, data, chk, timeout=timeout)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 329, in command
+    self._port.timeout = saved_timeout
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialutil.py", line 368, in timeout
+    self._reconfigure_port()
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 326, in _reconfigure_port
+    raise SerialException("Could not configure port: {}".format(msg))
+serial.serialutil.SerialException: Could not configure port: (5, 'Input/output error')
+
+==============================
+2019-01-18 14:16:02 +0800
+stty: /dev/ttyUSB0: No such file or directory
+cat: /dev/ttyUSB0: No such file or directory
+
+==============================
+2019-01-18 14:28:53 +0800
+3966 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: b4:e6:2d:97:49:b9
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Erasing flash (this may take a while)...
+Chip erase completed successfully in 2.2s
+Hard resetting via RTS pin...
+
+==============================
+2019-01-18 14:28:56 +0800
+3966 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting.....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: b4:e6:2d:97:49:b9
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Configuring flash size...
+Auto-detected Flash size: 4MB
+Compressed 15088 bytes to 9755...
+Writing at 0x00001000... (100 %)Wrote 15088 bytes (9755 compressed) at 0x00001000 in 0.2 seconds (effective 541.6 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 144...
+Writing at 0x00008000... (100 %)Wrote 3072 bytes (144 compressed) at 0x00008000 in 0.0 seconds (effective 3725.6 kbit/s)...
+Hash of data verified.
+Compressed 8192 bytes to 47...
+Writing at 0x0000e000... (100 %)Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 13660.6 kbit/s)...
+Hash of data verified.
+Compressed 1020560 bytes to 593985...
+Writing at 0x00010000... (2 %)Writing at 0x00014000... (5 %)Writing at 0x00018000... (8 %)Writing at 0x0001c000... (10 %)Writing at 0x00020000... (13 %)Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 537, in write
+    n = os.write(self.fd, d)
+OSError: [Errno 5] Input/output error
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 308, in command
+    self.write(pkt)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 271, in write
+    self._port.write(buf)
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 571, in write
+    raise SerialException('write failed: {}'.format(e))
+serial.serialutil.SerialException: write failed: [Errno 5] Input/output error
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 323, in _reconfigure_port
+    orig_attr = termios.tcgetattr(self.fd)
+termios.error: (5, 'Input/output error')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2852, in <module>
+    _main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2845, in _main
+    main()
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2597, in main
+    operation_func(esp, args)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 2078, in write_flash
+    esp.flash_defl_block(block, seq, timeout=DEFAULT_TIMEOUT * ratio)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 95, in inner
+    return func(*args, **kwargs)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 618, in flash_defl_block
+    self.ESP_FLASH_DEFL_DATA, struct.pack('<IIII', len(data), seq, 0, 0) + data, self.checksum(data), timeout=timeout)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 340, in check_command
+    val, data = self.command(op, data, chk, timeout=timeout)
+  File "/home/hulk/BIT-QC/AutoBurn/esptool.py", line 329, in command
+    self._port.timeout = saved_timeout
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialutil.py", line 368, in timeout
+    self._reconfigure_port()
+  File "/usr/local/lib/python3.6/dist-packages/serial/serialposix.py", line 326, in _reconfigure_port
+    raise SerialException("Could not configure port: {}".format(msg))
+serial.serialutil.SerialException: Could not configure port: (5, 'Input/output error')
+
+==============================
+2019-01-18 14:28:59 +0800
+stty: /dev/ttyUSB0: No such file or directory
+cat: /dev/ttyUSB0: No such file or directory
+
+==============================
+2019-01-18 15:21:43 +0800
+4092 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting........_
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: b4:e6:2d:97:49:b9
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Erasing flash (this may take a while)...
+Chip erase completed successfully in 3.2s
+Hard resetting via RTS pin...
+
+==============================
+2019-01-18 15:21:49 +0800
+4092 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting.....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: b4:e6:2d:97:49:b9
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Configuring flash size...
+Auto-detected Flash size: 4MB
+Compressed 15088 bytes to 9755...
+Writing at 0x00001000... (100 %)Wrote 15088 bytes (9755 compressed) at 0x00001000 in 0.2 seconds (effective 546.6 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 144...
+Writing at 0x00008000... (100 %)Wrote 3072 bytes (144 compressed) at 0x00008000 in 0.0 seconds (effective 3873.8 kbit/s)...
+Hash of data verified.
+Compressed 8192 bytes to 47...
+Writing at 0x0000e000... (100 %)Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 14703.3 kbit/s)...
+Hash of data verified.
+Compressed 1020560 bytes to 593985...
+Writing at 0x00010000... (2 %)Writing at 0x00014000... (5 %)Writing at 0x00018000... (8 %)Writing at 0x0001c000... (10 %)Writing at 0x00020000... (13 %)Writing at 0x00024000... (16 %)Writing at 0x00028000... (18 %)Writing at 0x0002c000... (21 %)Writing at 0x00030000... (24 %)Writing at 0x00034000... (27 %)Writing at 0x00038000... (29 %)Writing at 0x0003c000... (32 %)Writing at 0x00040000... (35 %)Writing at 0x00044000... (37 %)Writing at 0x00048000... (40 %)Writing at 0x0004c000... (43 %)Writing at 0x00050000... (45 %)Writing at 0x00054000... (48 %)Writing at 0x00058000... (51 %)Writing at 0x0005c000... (54 %)Writing at 0x00060000... (56 %)Writing at 0x00064000... (59 %)Writing at 0x00068000... (62 %)Writing at 0x0006c000... (64 %)Writing at 0x00070000... (67 %)Writing at 0x00074000... (70 %)Writing at 0x00078000... (72 %)Writing at 0x0007c000... (75 %)Writing at 0x00080000... (78 %)Writing at 0x00084000... (81 %)Writing at 0x00088000... (83 %)Writing at 0x0008c000... (86 %)Writing at 0x00090000... (89 %)Writing at 0x00094000... (91 %)Writing at 0x00098000... (94 %)Writing at 0x0009c000... (97 %)Writing at 0x000a0000... (100 %)Wrote 1020560 bytes (593985 compressed) at 0x00010000 in 13.6 seconds (effective 600.7 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...
+
+==============================
+2019-01-18 15:22:06 +0800
+460800
+
+==============================
+2019-01-18 15:35:23 +0800
+4204 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting.....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: b4:e6:2d:97:49:b9
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Erasing flash (this may take a while)...
+Chip erase completed successfully in 3.2s
+Hard resetting via RTS pin...
+
+==============================
+2019-01-18 15:35:27 +0800
+4204 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting.....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: b4:e6:2d:97:49:b9
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Configuring flash size...
+Auto-detected Flash size: 4MB
+Compressed 15088 bytes to 9755...
+Writing at 0x00001000... (100 %)Wrote 15088 bytes (9755 compressed) at 0x00001000 in 0.2 seconds (effective 544.4 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 144...
+Writing at 0x00008000... (100 %)Wrote 3072 bytes (144 compressed) at 0x00008000 in 0.0 seconds (effective 3699.2 kbit/s)...
+Hash of data verified.
+Compressed 8192 bytes to 47...
+Writing at 0x0000e000... (100 %)Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 14679.7 kbit/s)...
+Hash of data verified.
+Compressed 1020560 bytes to 593985...
+Writing at 0x00010000... (2 %)Writing at 0x00014000... (5 %)Writing at 0x00018000... (8 %)Writing at 0x0001c000... (10 %)Writing at 0x00020000... (13 %)Writing at 0x00024000... (16 %)Writing at 0x00028000... (18 %)Writing at 0x0002c000... (21 %)Writing at 0x00030000... (24 %)Writing at 0x00034000... (27 %)Writing at 0x00038000... (29 %)Writing at 0x0003c000... (32 %)Writing at 0x00040000... (35 %)Writing at 0x00044000... (37 %)Writing at 0x00048000... (40 %)Writing at 0x0004c000... (43 %)Writing at 0x00050000... (45 %)Writing at 0x00054000... (48 %)Writing at 0x00058000... (51 %)Writing at 0x0005c000... (54 %)Writing at 0x00060000... (56 %)Writing at 0x00064000... (59 %)Writing at 0x00068000... (62 %)Writing at 0x0006c000... (64 %)Writing at 0x00070000... (67 %)Writing at 0x00074000... (70 %)Writing at 0x00078000... (72 %)Writing at 0x0007c000... (75 %)Writing at 0x00080000... (78 %)Writing at 0x00084000... (81 %)Writing at 0x00088000... (83 %)Writing at 0x0008c000... (86 %)Writing at 0x00090000... (89 %)Writing at 0x00094000... (91 %)Writing at 0x00098000... (94 %)Writing at 0x0009c000... (97 %)Writing at 0x000a0000... (100 %)Wrote 1020560 bytes (593985 compressed) at 0x00010000 in 13.6 seconds (effective 601.5 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...
+
+==============================
+2019-01-18 15:35:44 +0800
+460800
+
+==============================
+2019-01-18 15:52:09 +0800
+4344 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting......
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: b4:e6:2d:97:49:b9
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Erasing flash (this may take a while)...
+Chip erase completed successfully in 3.1s
+Hard resetting via RTS pin...
+
+==============================
+2019-01-18 15:52:13 +0800
+4344 tty add /dev/ttyUSB0 ttyUSB0
+esptool.py v2.5.1
+Serial port /dev/ttyUSB0
+Connecting....
+Chip is ESP32D0WDQ6 (revision 1)
+Features: WiFi, BT, Dual Core, 240MHz, VRef calibration in efuse
+MAC: b4:e6:2d:97:49:b9
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Configuring flash size...
+Auto-detected Flash size: 4MB
+Compressed 15088 bytes to 9755...
+Writing at 0x00001000... (100 %)Wrote 15088 bytes (9755 compressed) at 0x00001000 in 0.2 seconds (effective 535.5 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 144...
+Writing at 0x00008000... (100 %)Wrote 3072 bytes (144 compressed) at 0x00008000 in 0.0 seconds (effective 3664.1 kbit/s)...
+Hash of data verified.
+Compressed 8192 bytes to 47...
+Writing at 0x0000e000... (100 %)Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.0 seconds (effective 13732.2 kbit/s)...
+Hash of data verified.
+Compressed 1020560 bytes to 593985...
+Writing at 0x00010000... (2 %)Writing at 0x00014000... (5 %)Writing at 0x00018000... (8 %)Writing at 0x0001c000... (10 %)Writing at 0x00020000... (13 %)Writing at 0x00024000... (16 %)Writing at 0x00028000... (18 %)Writing at 0x0002c000... (21 %)Writing at 0x00030000... (24 %)Writing at 0x00034000... (27 %)Writing at 0x00038000... (29 %)Writing at 0x0003c000... (32 %)Writing at 0x00040000... (35 %)Writing at 0x00044000... (37 %)Writing at 0x00048000... (40 %)Writing at 0x0004c000... (43 %)Writing at 0x00050000... (45 %)Writing at 0x00054000... (48 %)Writing at 0x00058000... (51 %)Writing at 0x0005c000... (54 %)Writing at 0x00060000... (56 %)Writing at 0x00064000... (59 %)Writing at 0x00068000... (62 %)Writing at 0x0006c000... (64 %)Writing at 0x00070000... (67 %)Writing at 0x00074000... (70 %)Writing at 0x00078000... (72 %)Writing at 0x0007c000... (75 %)Writing at 0x00080000... (78 %)Writing at 0x00084000... (81 %)Writing at 0x00088000... (83 %)Writing at 0x0008c000... (86 %)Writing at 0x00090000... (89 %)Writing at 0x00094000... (91 %)Writing at 0x00098000... (94 %)Writing at 0x0009c000... (97 %)Writing at 0x000a0000... (100 %)Wrote 1020560 bytes (593985 compressed) at 0x00010000 in 13.6 seconds (effective 602.4 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...
+
+==============================
+2019-01-18 15:52:30 +0800
+460800
