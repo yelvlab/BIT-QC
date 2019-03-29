@@ -1,4 +1,4 @@
-# Artec(ESP32)自动质检烧录环境架设
+# BPI-BIT自动质检烧录环境架设
 
 1. /etc/udev/rule.d 入手
 修改内容：
@@ -10,3 +10,9 @@ KERNEL=="ttyUSB*",RUN+="/root/BIT/AutoRun"
 
 
 AutoRun内执行流程为先擦除ESP32 Flash，再重新烧录ESP32固件
+
+## issue
+
+Error:
+ModuleNotFoundError: No module named 'serial'
+pyserial 是非root安装，需要用root权限安装， sudo -H pip/pip3 install pyserial
